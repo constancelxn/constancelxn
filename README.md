@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @constancelxn
 - 👀 I’m interested in learning more about Artificial Intelligence and machine learning.
-- 🌱 I’m currently learning Applied linguistics and education technology, especially identity construction among minority children in AI gamification.
+- 🌱 I’m currently a student learning Applied linguistics and education technology, especially identity construction among minority children in AI gamification at University of Cambridge.
 - 📫 How to reach me 
 - through email: constancelxn@163.com
 
